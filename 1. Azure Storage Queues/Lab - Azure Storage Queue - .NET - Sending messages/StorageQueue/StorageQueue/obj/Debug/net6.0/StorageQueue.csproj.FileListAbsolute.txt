@@ -1,0 +1,44 @@
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.exe
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.deps.json
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.runtimeconfig.json
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\ref\StorageQueue.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.pdb
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\Azure.Core.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\Azure.Storage.Queues.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\tmp\StorageQueue\StorageQueue\bin\Debug\net6.0\System.Memory.Data.dll
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.csproj.AssemblyReference.cache
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.AssemblyInfoInputs.cache
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.AssemblyInfo.cs
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.csproj.CoreCompileInputs.cache
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.csproj.CopyComplete
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.dll
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\ref\StorageQueue.dll
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.pdb
+C:\tmp\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.genruntimeconfig.cache
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.exe
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.deps.json
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.runtimeconfig.json
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\StorageQueue.pdb
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\Azure.Storage.Queues.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.csproj.AssemblyReference.cache
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.AssemblyInfoInputs.cache
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.AssemblyInfo.cs
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.csproj.CoreCompileInputs.cache
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.csproj.CopyComplete
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\refint\StorageQueue.dll
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.pdb
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\StorageQueue.genruntimeconfig.cache
+C:\Users\tridi\Downloads\azure third party services\1. Azure Storage Queues\Lab - Azure Storage Queue - .NET - Sending messages\StorageQueue\StorageQueue\obj\Debug\net6.0\ref\StorageQueue.dll

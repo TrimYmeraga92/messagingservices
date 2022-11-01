@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b90d74d-b0af-4e08-9ea4-62acdf9cf675": {
+      "ProjectGuid": "2b90d74d-b0af-4e08-9ea4-62acdf9cf675",
+      "DisplayName": "AzureServiceBusMessages",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
