@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f40d1557-e093-4352-ac3b-8dd27ac23b50": {
+      "ProjectGuid": "f40d1557-e093-4352-ac3b-8dd27ac23b50",
+      "DisplayName": "StorageQueue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

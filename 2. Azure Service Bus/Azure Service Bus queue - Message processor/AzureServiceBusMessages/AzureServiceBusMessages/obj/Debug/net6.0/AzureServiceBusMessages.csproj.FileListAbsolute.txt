@@ -1,0 +1,45 @@
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.exe
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.deps.json
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.runtimeconfig.json
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\ref\AzureServiceBusMessages.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.pdb
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Azure.Core.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\System.Memory.Data.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.AssemblyInfoInputs.cache
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.AssemblyInfo.cs
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.csproj.CoreCompileInputs.cache
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.csproj.CopyComplete
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\ref\AzureServiceBusMessages.dll
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.pdb
+C:\tmp\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.genruntimeconfig.cache
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.exe
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.deps.json
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.runtimeconfig.json
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\ref\AzureServiceBusMessages.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\AzureServiceBusMessages.pdb
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Azure.Core.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.csproj.AssemblyReference.cache
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.AssemblyInfoInputs.cache
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.AssemblyInfo.cs
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.csproj.CoreCompileInputs.cache
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.csproj.CopyComplete
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\ref\AzureServiceBusMessages.dll
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.pdb
+C:\Udemy\AZ-204\11. Connect to and consume Azure services and third-party services\2. Azure Service Bus\9. Lab - Azure Service Bus queue - Message processor\AzureServiceBusMessages\AzureServiceBusMessages\obj\Debug\net6.0\AzureServiceBusMessages.genruntimeconfig.cache
